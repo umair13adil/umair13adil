@@ -4,10 +4,8 @@ I am a 32 years old Software Engineer from Islamabad, Pakistan. 🇵🇰 I like 
 
 💬 Ask me about Android, iOS or cross-platform (Flutter). I am here to help. 🙇
 
-[![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umair13adil)](https://github.com/umair13adil/github-readme-stats)
-
 Need career advice? Book a session with me from this link: 👇
 
-[![Umair's TopMate Profile](https://topmate.io/umair_adil)](topmate.io/umair_adil)
+[[Umair's TopMate Profile](https://topmate.io/umair_adil)](topmate.io/umair_adil)
 
-Or visit my website 👉 [![Umair's Website](https://umairadil.com/)](umairadil.com)
+Or visit my website 👉 [[Umair's Website](https://umairadil.com/)](umairadil.com)

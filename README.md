@@ -8,6 +8,6 @@ I am a 32 years old Software Engineer from Islamabad, Pakistan. 🇵🇰 I like 
 
 Need career advice? Book a session with me from this link: 👇
 
-(https://topmate.io/umair_adil)](topmate.io/umair_adil)
+[![Umair's TopMate Profile](https://topmate.io/umair_adil)](topmate.io/umair_adil)
 
-Or visit my website 👉 (https://umairadil.com/)](umairadil.com)
+Or visit my website 👉 [![Umair's Website](https://umairadil.com/)](umairadil.com)

@@ -64,6 +64,6 @@ Compliance │ GDPR · NIS-2
 
 - 💼 [linkedin.com/in/umairadil](https://linkedin.com/in/umairadil)
 - 📧 umair_adil@live.com
-- 🌍 Islamabad, Pakistan — open to remote & relocation (EU / UK)
+- 🌍 Islamabad, Pakistan
 
 ---

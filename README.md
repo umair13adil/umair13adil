@@ -22,7 +22,7 @@ serving thousands of enterprise users across multiple client organisations.
 ### 📦 Open Source
 
 | Project | Description |
-|---|---|---|
+|---|---|
 | [flutter_logs](https://github.com/umair13adil/flutter_logs) | Production logging SDK — AES encryption, file rotation, zip export |
 | [mapbox_navigation](https://github.com/umair13adil/mapbox_navigation) | Flutter plugin wrapping Mapbox Navigation SDK — turn-by-turn, Foreground Services |
 | [simple_beacons_flutter](https://github.com/umair13adil/simple_beacons_flutter) | iBeacon BLE ranging & monitoring Flutter plugin via AltBeacon |
